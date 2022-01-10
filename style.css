@@ -43,7 +43,7 @@ body {
 }
 
 .container button {
-  margin-top: auto;
+  /* margin-top: auto; */
   padding: 12px 20px;
   border: 2px solid #000;
   border-radius: 4px;
@@ -52,7 +52,7 @@ body {
 }
 
 .container .card {
-  margin-top: auto;
+  /* margin-top: auto; */
   background: rgba(0, 0, 0, 0.85);
   box-shadow: 0 4px 12px 3px rgba(0, 0, 0, 0.2);
   color: #fff;
